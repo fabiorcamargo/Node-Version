@@ -1,5 +1,7 @@
-##Procedimento para atualizar versões do Node
+#Procedimento para atualizar versões do Node
 
+
+## Instruções
 1º Baixe o nvm
 ```bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
